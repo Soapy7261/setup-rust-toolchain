@@ -1,4 +1,4 @@
-name: Setup Rust Toolchain for GitHub CI
+name: Setup Rust Toolchain for GitHub CI with all crates set to cache
 description: |
   Setup specific Rust versions with caching pre-configured.
   It provides problem matchers for cargo and rustfmt issues.
