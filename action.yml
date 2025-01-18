@@ -199,4 +199,5 @@ runs:
         workspaces: ${{inputs.cache-workspaces}}
         cache-directories: ${{inputs.cache-directories}}
         cache-on-failure: ${{inputs.cache-on-failure}}
+        cache-all-crates: "true"
         key: ${{inputs.cache-key}}
